@@ -1,0 +1,29 @@
+﻿@page "/Galeria/Residencial/Habitacion"
+@using EMME_Acabados_.Data.DatosGaleria.GaleriaResidencial;
+
+<NavMenu activadoGaleria="Mostrar" />
+
+<div class="site-section" data-aos="fade">
+    <div class="container-fluid">
+        <div class="row" id="lightgallery">
+            @foreach (var img in Imagenes)
+            {
+                <div class="col-sm-6 col-md-4 col-lg-3 col-xl-3 item" data-aos="fade" data-src="images/big-images/nature_big_8.jpg" data-sub-html="<h4>Fading Light</h4><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam vitae sed cum mollitia itaque soluta laboriosam eaque sit ratione, aliquid.</p>">
+                    <img src=@img.UrlImg alt="Habitacion" class="img-fluid">
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@code {
+    bool Mostrar = false;
+    List<ListResidencial> Imagenes;
+    Residencial imagen = new Residencial();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Mostrar = true;
+        Imagenes = await imagen.ImgVer("Habitación");
+    }
+}

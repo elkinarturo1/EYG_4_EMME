@@ -1,0 +1,13 @@
+﻿@page "/Galeria/ObraBlanca"
+
+<NavMenu activadoGaleria="Mostrar" />
+
+
+@code {
+    bool Mostrar = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Mostrar = true;
+    }
+}

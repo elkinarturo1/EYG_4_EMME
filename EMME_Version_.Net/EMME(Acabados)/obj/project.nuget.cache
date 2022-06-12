@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHwoSSfiiemtUPONX0Xg3AH5wIF8HPLv9PKP+6ohDGEeJ7N4p9RcTZch29WhQAoosTZxRLtdjHSNp9jkl1vHIQ==",
+  "success": true,
+  "projectFilePath": "D:\\EyG\\Repositorios EyG\\4 - EMME\\EMME(Acabados)\\EMME(Acabados).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elkin.munoz\\.nuget\\packages\\easendmail\\7.7.0.9\\easendmail.7.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

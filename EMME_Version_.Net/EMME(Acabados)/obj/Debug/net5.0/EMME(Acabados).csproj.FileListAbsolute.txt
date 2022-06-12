@@ -1,0 +1,182 @@
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\appsettings.json
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).StaticWebAssets.xml
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).exe
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).deps.json
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).runtimeconfig.json
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).runtimeconfig.dev.json
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).dll
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\ref\EMME(Acabados).dll
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).pdb
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).Views.dll
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).Views.pdb
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).AssemblyInfo.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorComponent.input.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorComponent.output.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\EMME(Acabados).dll
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).TagHelpers.input.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).TagHelpers.output.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorCoreGenerate.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorAssemblyInfo.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorAssemblyInfo.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\staticwebassets\EMME(Acabados).StaticWebAssets.Manifest.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\staticwebassets\EMME(Acabados).StaticWebAssets.xml
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\bundle\EMME(Acabados).styles.css
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\projectbundle\EMME(Acabados).bundle.scp.css
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorTargetAssemblyInfo.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).Views.pdb
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).dll
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\ref\EMME(Acabados).dll
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).pdb
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).genruntimeconfig.cache
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).csproj.CopyComplete
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Index.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Index.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\Galeria.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\Galeria.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Servicio.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Servicio.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Nosotros.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Nosotros.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Contactos.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Contactos.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencial.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBaño.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencial.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBaño.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialCocina.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialCocina.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaComercial\GaleriaComercial.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaEmpresarial\GaleriaEmpresarial.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaObraBlanca\GaleriaObraBlanca.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaComercial\GaleriaComercial.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaEmpresarial\GaleriaEmpresarial.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaObraBlanca\GaleriaObraBlanca.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialEstudio.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialMoscota.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialEstudio.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialMoscota.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBebes.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialComunes.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHabitacion.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHuerta.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialRopas.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialTocador.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBebes.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialComunes.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHabitacion.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHuerta.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialRopas.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialTocador.razor.g.cs
+C:\Users\ACER\Documents\Documento De Selene\PROYECTOS\PaginaWeb\Pagina\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EASendMail.dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\appsettings.Development.json
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\appsettings.json
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).StaticWebAssets.xml
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).exe
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).deps.json
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).runtimeconfig.json
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).runtimeconfig.dev.json
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\ref\EMME(Acabados).dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).pdb
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).Views.dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EMME(Acabados).Views.pdb
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\bin\Debug\net5.0\EASendMail.dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).csproj.AssemblyReference.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).GeneratedMSBuildEditorConfig.editorconfig
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).AssemblyInfoInputs.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).AssemblyInfo.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).csproj.CoreCompileInputs.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).MvcApplicationPartsAssemblyInfo.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorComponent.input.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Contactos.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\Galeria.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaComercial\GaleriaComercial.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaEmpresarial\GaleriaEmpresarial.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaObraBlanca\GaleriaObraBlanca.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencial.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBaño.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBebes.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialCocina.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialComunes.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialEstudio.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHabitacion.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHuerta.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialMoscota.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialRopas.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialTocador.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Index.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Nosotros.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Pages\Paginas\Servicio.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorComponent.output.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\RazorDeclaration\EMME(Acabados).dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).TagHelpers.input.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).TagHelpers.output.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorCoreGenerate.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Contactos.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\Galeria.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaComercial\GaleriaComercial.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaEmpresarial\GaleriaEmpresarial.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaObraBlanca\GaleriaObraBlanca.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencial.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBaño.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialBebes.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialCocina.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialComunes.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialEstudio.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHabitacion.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialHuerta.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialMoscota.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialRopas.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Galeria\GaleriaResidencial\GaleriaResidencialTocador.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Index.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Nosotros.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Paginas\Servicio.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorAssemblyInfo.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorAssemblyInfo.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\bundle\EMME(Acabados).styles.css
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\scopedcss\projectbundle\EMME(Acabados).bundle.scp.css
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\staticwebassets\EMME(Acabados).StaticWebAssets.Manifest.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\staticwebassets\EMME(Acabados).StaticWebAssets.xml
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorTargetAssemblyInfo.cache
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).RazorTargetAssemblyInfo.cs
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).Views.pdb
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).csproj.CopyComplete
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\ref\EMME(Acabados).dll
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).pdb
+D:\EMME(Acabados) 2021-07-26\EMME(Acabados)\EMME(Acabados)\obj\Debug\net5.0\EMME(Acabados).genruntimeconfig.cache

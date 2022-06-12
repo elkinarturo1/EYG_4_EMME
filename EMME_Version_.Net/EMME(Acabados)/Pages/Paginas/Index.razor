@@ -1,0 +1,67 @@
+﻿@page "/"
+
+<NavMenu activadoIndex="Mostrar"/>
+
+<div class="container-fluid" data-aos="fade" data-aos-delay="500">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Comercial</h2>
+                    <a href="/Galeria/Comercial" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_1.jpg" alt="Image" class="img-fluid">
+            </div>
+        </div>
+
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Empresarial</h2>
+                    <a href="/Galeria/Empresarial" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_2.jpg" alt="Image" class="img-fluid image-aco">
+            </div>
+        </div>
+
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Residencial</h2>
+                    <a href="/Galeria/Residencial" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_1.jpg" alt="Image" class="img-fluid image-aco">
+            </div>
+        </div>
+        @*<div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Obra blanca</h2>
+                    <a href="/Galeria/ObraBlanca" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_2.jpg" alt="Image" class="img-fluid ">
+            </div>
+        </div>*@
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Obra blanca</h2>
+                    <a href="/Galeria/ObraBlanca" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_2.jpg" alt="Image" class="img-fluid ">
+            </div>
+        </div>
+    </div>
+</div>
+
+    @code{
+        private bool Mostrar = false;
+
+        protected override async Task OnInitializedAsync()
+        {
+            Mostrar = true;
+        }
+    }
+

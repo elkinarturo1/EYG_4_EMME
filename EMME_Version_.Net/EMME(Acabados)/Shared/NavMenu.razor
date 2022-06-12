@@ -1,0 +1,148 @@
+﻿<header class="site-navbar py-3" role="banner">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+
+            @*Aca se muestra la imagen de la empres*@
+
+            <div class="col-6 col-xl-2" data-aos="fade-down">
+                <a href="/"><img src="/phosen/images/Logo/Logo.jpg" class="logo" /></a>
+                @*<h1 class="mb-0"><a href="~/" class="text-white h2 mb-0">Photosen</a></h1>*@
+            </div>
+
+            <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
+                <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
+
+                    <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+
+                        @*Pagina index*@
+                        <li class="@ColorActi"><a href="/">Inicio</a></li>
+
+                        @*Pagina galeria*@
+                        <li class="has-children @ColorActi2">
+                            <a href="/Galeria">Galería</a>
+                            <ul class="dropdown">
+
+                                @*Galeria comercial de la pagina*@
+                                <li class="has-children">
+                                    <a href="/Galeria/Comercial">Comercial</a>
+                                    <ul class="dropdown">
+                                        <li><a href="#">Escritorios</a></li>
+                                        <li><a href="#">Estanterias</a></li>
+                                        <li><a href="#">Mostradores</a></li>
+                                    </ul>
+                                </li>
+
+                                @*Galeria empresarial de la pagina*@
+                                <li class="has-children">
+                                    <a href="/Galeria/Empresarial">Empresarial</a>
+                                    <ul class="dropdown">
+                                        <li><a href="#"></a></li>
+                                    </ul>
+                                </li>
+
+                                @*Galeria residencial de la pagina*@
+                                <li class="has-children">
+                                    <a href="/Galeria/Residencial">Residencial</a>
+                                    <ul class="dropdown">
+                                        <li><a href="/Galeria/Residencial/Baño">Baño</a></li>
+                                        <li><a href="/Galeria/Residencial/Cocina">Cocina</a></li>
+                                        <li><a href="/Galeria/Residencial/Estudio">Estudio</a></li>
+                                        <li><a href="/Galeria/Residencial/GimMascota">Gimnasia para mascotas</a></li>
+                                        <li><a href="/Galeria/Residencial/Habitacion">Habitacion</a></li>
+                                        <li><a href="/Galeria/Residencial/Huerta">Huerta</a></li>
+                                        <li><a href="/Galeria/Residencial/MobiliarioBebes">Mobiliario para bebes</a></li>
+                                        <li><a href="/Galeria/Residencial/Tocador">Tocador</a></li>
+                                        <li><a href="/Galeria/Residencial/ZonaRopas">Zona de ropas</a></li>
+                                        <li><a href="/Galeria/Residencial/ZonasComunes">Zonas comunes</a></li>
+                                    </ul>
+                                </li>
+
+                                @*Galeria obra blanca de la pagina*@
+                                <li><a href="/Galeria/ObraBlanca">Obra blanca</a></li>
+                            </ul>
+                        </li>
+
+                        @*Pagina de servicio*@
+                        <li class="@ColorActi3"><a href="/Servicios">Servicios</a></li>
+
+                        @*Pagina de nsotros*@
+                        <li class="@ColorActi4"><a href="/Nosotros">Sobre nosotros</a></li>
+
+                        @*Pagina del contacto*@
+                        <li class="@ColorActi5"><a href="/Contacto">Contacto</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="col-6 col-xl-2 text-right" data-aos="fade-down">
+                <div class="d-none d-xl-inline-block">
+                    <ul class="site-menu js-clone-nav ml-auto list-unstyled d-flex text-right mb-0" data-class="social">
+                        <li>
+                            <a href="https://www.facebook.com/emme.acabadosarq" target="_blank" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/emme.acabadosarq/" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                        </li>
+                        <li>
+                            <a href="https://api.whatsapp.com/send?phone=573023615100&text=Hola" target="_blank" class="pl-3 pr-3"><span class="icon-whatsapp"></span></a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+            </div>
+
+        </div>
+    </div>
+</header>
+
+@code{
+
+    [Parameter] public bool activadoIndex { get; set; }
+    [Parameter] public bool activadoGaleria { get; set; }
+    [Parameter] public bool activadoNosotros { get; set; }
+    [Parameter] public bool activadoServicios { get; set; }
+    [Parameter] public bool activadoContacto { get; set; }
+
+    bool ColorIndex = false, ColorGaleria = false, ColorNosotros = false, ColorServicio = false, ColorContacto = false;
+
+    string ColorActi = "", ColorActi2 = "", ColorActi3 = "", ColorActi4 = "", ColorActi5 = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        Mostrar();
+    }
+
+    private void Mostrar()
+    {
+        ColorIndex = activadoIndex;
+        ColorGaleria = activadoGaleria;
+        ColorNosotros = activadoNosotros;
+        ColorServicio = activadoServicios;
+        ColorContacto = activadoContacto;
+
+        if (ColorIndex == true)
+        {
+            ColorActi = "active";
+        }
+        else if (ColorGaleria == true)
+        {
+            ColorActi2 = "active";
+        }
+        else if (ColorServicio == true)
+        {
+            ColorActi3 = "active";
+        }
+        else if (ColorNosotros == true)
+        {
+            ColorActi4 = "active";
+        }
+        else if (ColorContacto == true)
+        {
+            ColorActi5 = "active";
+        }
+    }
+
+
+}

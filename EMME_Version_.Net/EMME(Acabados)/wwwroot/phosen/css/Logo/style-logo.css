@@ -1,0 +1,15 @@
+﻿.logo {
+    width: 200px;
+    height: 75px;
+    /*padding-left: 30px;*/
+    filter: none;
+    border-radius: 50px;
+}
+
+.logo img {
+    object-fit: cover;
+}
+
+.logo_grande{
+    filter: none;
+}

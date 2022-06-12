@@ -1,0 +1,101 @@
+﻿@page "/"
+@namespace EMME_Acabados_.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        @*<meta name="viewport" content="width=device-width, initial-scale=1.0" />*@
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>EMME(Acabados)</title>
+        <base href="~/" />
+        <link rel="shortcut icon" type="image/jpg" href = "~/phosen/images/Logo/Logo.jpg" />
+        @*<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
+        <link href="css/site.css" rel="stylesheet" />
+        <link href="EMME(Acabados).styles.css" rel="stylesheet" />*@
+    
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="~/phosen/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="~/phosen/css/Logo/style-logo.css"/>
+        <link rel="stylesheet" href="~/phosen/css/imagenes.css"/>
+        <link rel="stylesheet" href="~/phosen/css/bootstrap.min.css">
+        <link rel="stylesheet" href="~/phosen/css/magnific-popup.css">
+        <link rel="stylesheet" href="~/phosen/css/jquery-ui.css">
+        <link rel="stylesheet" href="~/phosen/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="~/phosen/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="~/phosen/css/lightgallery.min.css">
+        <link rel="stylesheet" href="~/phosen/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="~/phosen/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="~/phosen/css/swiper.css">   
+        <link rel="stylesheet" href="~/phosen/css/aos.css">    
+        <link rel="stylesheet" href="~/phosen/css/style.css">
+
+    </head>
+    <body>
+    
+        <div class="site-wrap">
+    
+            <div class="site-mobile-menu">
+                <div class="site-mobile-menu-header">
+                    <div class="site-mobile-menu-close mt-3">
+                        <span class="icon-close2 js-menu-toggle"></span>
+                    </div>
+                </div>
+                <div class="site-mobile-menu-body"></div>
+            </div>
+    
+            <component type="typeof(App)" render-mode="ServerPrerendered" />
+            @*<div id="blazor-error-ui">
+                <environment include="Staging,Production">
+                    An error has occurred. This application may no longer respond until reloaded.
+                </environment>
+                <environment include="Development">
+                    An unhandled exception has occurred. See browser dev tools for details.
+                </environment>
+                <a href="" class="reload">Reload</a>
+                <a class="dismiss">🗙</a>
+            </div>*@
+    
+            <div class="footer py-4">
+                <div class="container-fluid text-center">
+                    <p>
+                        <!--Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0.-->
+                        Copyright &copy;
+                        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+                        <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" class="color_letra" target="_blank">Colorlib</a>
+                        <!--Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0.-->
+                    </p>
+                </div>
+            </div>
+        </div>
+    
+        <script src="~/phosen/js/jquery-3.3.1.min.js"></script>
+        <script src="~/phosen/js/jquery-migrate-3.0.1.min.js"></script>
+        <script src="~/phosen/js/jquery-ui.js"></script>
+        <script src="~/phosen/js/popper.min.js"></script>
+        <script src="~/phosen/js/bootstrap.min.js"></script>
+        <script src="~/phosen/js/owl.carousel.min.js"></script>
+        <script src="~/phosen/js/jquery.stellar.min.js"></script>
+        <script src="~/phosen/js/jquery.countdown.min.js"></script>
+        <script src="~/phosen/js/jquery.magnific-popup.min.js"></script>
+        <script src="~/phosen/js/bootstrap-datepicker.min.js"></script>
+        <script src="~/phosen/js/swiper.min.js"></script>
+        <script src="~/phosen/js/aos.js"></script>
+        <script src="~/phosen/js/picturefill.min.js"></script>
+        <script src="~/phosen/js/lightgallery-all.min.js"></script>
+        <script src="~/phosen/js/jquery.mousewheel.min.js"></script>
+        <script src="~/phosen/js/main.js"></script>
+    
+        <script>
+            $(document).ready(function () {
+                $('#lightgallery').lightGallery();
+            });
+        </script>
+    
+        <script src="_framework/blazor.server.js"></script>
+    </body>
+</html>

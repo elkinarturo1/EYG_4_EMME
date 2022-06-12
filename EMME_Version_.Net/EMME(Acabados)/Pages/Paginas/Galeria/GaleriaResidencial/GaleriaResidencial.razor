@@ -1,0 +1,107 @@
+﻿@page "/Galeria/Residencial"
+
+<NavMenu activadoGaleria="Mostrar"/>
+
+<div class="container-fluid" data-aos="fade" data-aos-delay="500">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Baños</h2>
+                    <a href="/Galeria/Residencial/Baño" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/Residencial/A_Principales/Baños.jpg" alt="Baño" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Cocina</h2>
+                    <a href="/Galeria/Residencial/Cocina" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/Residencial/A_Principales/Cocina.jpg" alt="Cocina" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Estudio</h2>
+                    <a href="/Galeria/Residencial/Estudio" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/Residencial/A_Principales/Estudio.jpg" alt="Estudio" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Gimnacio para mascotas</h2>
+                    <a href="/Galeria/Residencial/GimMascota" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_1.jpg" alt="Image" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Habitacion</h2>
+                    <a href="/Galeria/Residencial/Habitacion" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/Residencial/A_Principales/Habitacion.jpg" alt="Habitacion" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Huerta</h2>
+                    <a href="/Galeria/Residencial/Huerta" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_1.jpg" alt="Image" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Mobiliario para Bebes</h2>
+                    <a href="/Galeria/Residencial/MobiliarioBebes" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/Residencial/A_Principales/Mobiliario para Bebes.jpg" alt="Bebe" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Tocador</h2>
+                    <a href="/Galeria/Residencial/Tocador" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_1.jpg" alt="Image" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Zona de ropas</h2>
+                    <a href="/Galeria/Residencial/ZonaRopas" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/img_1.jpg" alt="Image" class="img-fluid">
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="image-wrap-2">
+                <div class="image-info">
+                    <h2 class="mb-3">Zonas Comunes</h2>
+                    <a href="/Galeria/Residencial/ZonasComunes" class="btn btn-outline-white py-2 px-4">Ver más</a>
+                </div>
+                <img src="/phosen/images/Residencial/A_Principales/Zonas Comunes.jpg" alt="Salas" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    bool Mostrar = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Mostrar = true;
+    }
+}
